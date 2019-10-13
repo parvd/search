@@ -1,1 +1,1 @@
-Searchinng in the array
+Searching in the array
